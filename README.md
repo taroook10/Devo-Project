@@ -1,4 +1,4 @@
 # Devo-Project
 my project
 
-## project noutes
+## project notes
